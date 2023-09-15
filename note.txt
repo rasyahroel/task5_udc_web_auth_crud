@@ -1,0 +1,17 @@
+- buat db
+- install laravel
+- ubah db di env
+- buat migration stock
+- migrate
+- install auth (jetstream livewere)
+- npm install, npm run build, dan migrate
+- buat controller auth
+- tambahin authcontroller di route
+- tambahkan 1 user di db
+- buat tampilan stock
+- buat factory isi data stock
+- buat seeder untuk menjalankan factory
+- php artisan db:seed --class=StockSeeder
+- buat tampilan add stock
+- buat controller stock
+- tambahkan route stock dan add stock
